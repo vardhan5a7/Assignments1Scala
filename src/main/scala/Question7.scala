@@ -13,7 +13,7 @@ class Question7 {
       else
         "Not Happy"
     else
-      "Both condition"
+      "Both conditions fail"
   }
   println(checkStringHappyOrNot("happy", 2))
   println(checkStringHappyOrNot("malayalam", 3))
